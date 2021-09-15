@@ -1,6 +1,6 @@
 This is a fan-made Ezio's Hideout from Assassin's Creed Brotherhood. I made this level to practice level designing.
-All the 3D models are made by me in Blender
-Rendered in Unreal Engine 4.22
+- All the 3D models are made by me in Blender
+- Rendered in Unreal Engine 4.22
 Textures used in this project are taken from different sources:
 - textures.com
 - Quixel Megascan
